@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{loismichelant}/count.svg" alt="Visitor's Count" />
+<div align="center">
+  <img src="https://github.com/loismichelant/loismichelant/blob/main/banner.png" alt="Colorful Banner">
 </div>
