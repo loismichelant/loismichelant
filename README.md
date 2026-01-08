@@ -12,22 +12,19 @@
   I build <b>thoughtful mobile and web apps</b> with a focus on <b>clean architecture</b>, <b>reusable components</b>, and <b>polished UI/UX</b>.<br/><br/>Currently exploring <b>SwiftUI</b>, <b>Android</b>, and <b>full-stack web development</b>.
 </blockquote>
 
-<h2 align="left">✦ Languages & Tools</h2>
+<h2 align="left">✦ Main Languages & Tools</h2>
 <blockquote>
   <p>
     French & English
   </p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bootstrap,cs,css,discord,django,dotnet,eclipse,figma,firebase,git,html,java,js,jquery,mongodb,nodejs,notion,php,postgres,postman,py,react,swift,tailwind,visualstudio,vscode,windows,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,cs,java,py,dotnet,swift,androidstudio,git,figma,postgres" />
 </blockquote>
 
 <h2 align="left">✦ Now</h2>
-<blockquote>
-<ul>
-  <li>Shaping a clean and consistent project portfolio</li>
-  <li>Refining architecture patterns and UI components</li>
-  <li>Preparing for internships and junior developer roles</li>
-</ul>
-</blockquote>
+
+- [x] Building a clean and consistent project portfolio  
+- [x] Refining architecture patterns and UI components  
+- [ ] Preparing for internships and junior developer roles  
 
 <h2 align="left">✦ Connect With Me</h2>
 <blockquote>
