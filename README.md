@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/loismichelant/loismichelant/blob/main/banner.png" alt="Colorful Banner">
+  <img src="https://github.com/loismichelant/loismichelant/blob/main/Banner.png" alt="Colorful Banner">
 </div>
